@@ -1,0 +1,8 @@
+{
+  "rewrites": [
+    {
+      "source": "/(.*)",
+      "destination": "https://pavneetkaur.framer.wiki/$1"
+    }
+  ]
+}
